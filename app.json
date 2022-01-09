@@ -1,18 +1,18 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Savage Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+  "repository": "https://github.com/TheUltron-X/SavageXmusic",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Yukki",
-  "YukkiMusicBot",
+  "Savage",
+  "SavageMusicBot",
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/notreallyshikhar/YukkiMusicBot",
+  "repository": "https://github.com/TheUltron-X/SavageXmusic",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -117,7 +117,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/TheUltron-X/SavageXmusic",
       "required": true
     },
     "UPSTREAM_BRANCH": {
