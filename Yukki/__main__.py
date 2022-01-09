@@ -229,9 +229,15 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""Hello ,
-My name is {BOT_NAME}.
-A Telegram Music+Video Streaming bot with some useful features.
+home_text_pm = """
+*👋 Hᴇʟʟᴏ !*
+
+✗ *My Nᴀᴍᴇ Iᴢ [🔥𓆩𝐱𝐃乛𝐒𝐚𝐕𝐚𝐆𝐞𓆪🔥](https://t.me/savagexrobot).*
+✗ *I'ᴍ Tᴇʟᴇɢʀᴀᴍ Vᴏɪᴄᴇ Cʜᴀᴛ Aᴜᴅɪᴏ Wɪᴛʜ Sᴏᴍᴇ Uꜱᴇꜰᴜʟ Fᴇᴀᴛᴜʀᴇꜱ.
+!*
+────────────────────────
+✗ *Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: [TYCHON](https://t.me/itz_me_tychon)!*
+______________________________________
 
 All commands can be used with: / """
 
